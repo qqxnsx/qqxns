@@ -1,8 +1,5 @@
 # Hey there 👋, I'm Quentin Hilt  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:your-email@gmail.com)
-
 ## 👨‍💻 About Me  
 I'm Quentin Hilt from France.  
 
@@ -20,7 +17,4 @@ I'm Quentin Hilt from France.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 📬 Connect with Me  
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 [Portfolio](https://your-portfolio-link.com)
+
